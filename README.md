@@ -1,6 +1,7 @@
 # CertCheck — scanner de certificats SSL/TLS
 
 Se connecte à un ou plusieurs hôtes, récupère le certificat SSL/TLS présenté et affiche les champs utiles (sujet, émetteur, validité, liste SAN...).
+*Connects to one or more hosts, retrieves the SSL/TLS certificate and shows the useful fields.*
 
 ![Demo: example.com (IANA documentation domain)](docs/demo.gif)
 
