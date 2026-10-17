@@ -2,6 +2,9 @@
 
 Se connecte à un ou plusieurs hôtes, récupère le certificat SSL/TLS présenté et affiche les champs utiles (sujet, émetteur, validité, liste SAN...).
 
+![Demo: example.com (IANA documentation domain)](docs/demo.gif)
+
+
 ## Usage
 ```
 python3 certcheck.py exemple.com
